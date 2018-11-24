@@ -1,0 +1,8 @@
+program test;
+var x,y,z:integer;
+var a : char;
+begin
+readln (y);
+while x<y do x:=y;
+x := a+z 
+end.

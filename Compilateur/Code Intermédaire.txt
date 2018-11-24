@@ -1,0 +1,15 @@
+1. readln ( y ) 
+2. LOOP
+3. IF NOT
+4. TEMPO1 := x
+5. TEMPO2 := y
+6. TEMPO2 < TEMPO1
+7. GO END LOOP
+8. TEMPO3 := y
+9. x := TEMPO3 
+10. RET LOOP
+11. END LOOP
+12. TEMPO4 := a
+13. TEMPO5 := z
+14. TEMPO6 := TEMPO5 + TEMPO4
+15. x := TEMPO6 
